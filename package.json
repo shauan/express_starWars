@@ -1,0 +1,22 @@
+{
+  "name": "express_starwars",
+  "version": "1.0.0",
+  "description": "A basic movie app for star wars",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shauan/express_starWars.git"
+  },
+  "author": "Shauan Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shauan/express_starWars/issues"
+  },
+  "homepage": "https://github.com/shauan/express_starWars#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
